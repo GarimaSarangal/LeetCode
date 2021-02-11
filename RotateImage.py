@@ -4,11 +4,6 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
         #https://leetcode.com/problems/rotate-image/solution/
-class Solution:
-    def rotate(self, matrix: List[List[int]]) -> None:
-        """
-        Do not return anything, modify matrix in-place instead.
-        """
 #Solution 1
      #reversed
         n = len(matrix)
