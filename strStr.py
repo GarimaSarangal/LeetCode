@@ -1,5 +1,6 @@
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
+#         https://leetcode.com/problems/implement-strstr/
         N, H = len(needle), len(haystack)
         
         if N == 0:
